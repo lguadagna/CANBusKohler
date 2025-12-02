@@ -1,4 +1,4 @@
-// L Hamilton added 4 to a toal of 8 batteries monitored and added a config page.
+// L Hamilton added 4 to a toal of 8 batteries monitored and added a config page. 12/2/25
 // SB version 1.1 of the dashboard
 // Changed from driver/can.h to driver/twai.h to work with the DOIT Devkit boaard.
 //Also changed ESPAsyncWebServer etc  to fix compiler errors
